@@ -15,5 +15,5 @@ steps:
     targetType: 'inline'
     script: |
       date
-      echo 'Hello world'
+      echo 'Erindi'
   displayName: Date & Name
